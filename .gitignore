@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+**/.vs/
+*.csproj.user
+
+# .NET
+**/bin/
+**/obj/
+
+# React
+**/node_modules/
+**/dist/
+**/build/
+
+# Secrets and local settings
+**/appsettings.Development.json
+.env
+.env.local
